@@ -61,7 +61,7 @@ let package = Package(
                 .byName(name: "YTXMonitor"),
                 .byName(name: "YTXOperators"),
             ],
-            path: "Sources/OneSDKWrapper",
+            path: "OneSDKWrapper",
             linkerSettings: [
                 // iOS 系统框架（强引用）
                 .linkedFramework("UIKit"),
@@ -293,38 +293,56 @@ let package = Package(
         .target(
             name: "CommonResources",
             dependencies: [],
-            path: "Sources/CommonResources",
-            resources: [.copy("Resources")]
+            path: "CommonResources",
+            exclude: ["Resources"],
+            sources: ["Placeholder.swift"],
+            resources: [.copy("Resources")],
+            publicHeadersPath: nil
         ),
         .target(
             name: "TiantiResources",
             dependencies: [],
-            path: "Sources/TiantiResources",
-            resources: [.copy("Resources")]
+            path: "TiantiResources",
+            exclude: ["Resources"],
+            sources: ["Placeholder.swift"],
+            resources: [.copy("Resources")],
+            publicHeadersPath: nil
         ),
         .target(
             name: "HappymakerResources",
             dependencies: [],
-            path: "Sources/HappymakerResources",
-            resources: [.copy("Resources")]
+            path: "HappymakerResources",
+            exclude: ["Resources"],
+            sources: ["Placeholder.swift"],
+            resources: [.copy("Resources")],
+            publicHeadersPath: nil
         ),
         .target(
             name: "QutangResources",
             dependencies: [],
-            path: "Sources/QutangResources",
-            resources: [.copy("Resources")]
+            path: "QutangResources",
+            exclude: ["Resources"],
+            sources: ["Placeholder.swift"],
+            resources: [.copy("Resources")],
+            publicHeadersPath: nil
         ),
         .target(
             name: "PjmResources",
             dependencies: [],
-            path: "Sources/PjmResources",
-            resources: [.copy("Resources")]
+            path: "PjmResources",
+            exclude: ["Resources"],
+            sources: ["Placeholder.swift"],
+            resources: [.copy("Resources")],
+            publicHeadersPath: nil
         ),
         .target(
             name: "HiddentiantiResources",
             dependencies: [],
-            path: "Sources/HiddentiantiResources",
-            resources: [.copy("Resources")]
+            path: "HiddentiantiResources",
+            exclude: ["Resources"],
+            sources: ["Placeholder.swift"],
+            resources: [.copy("Resources")],
+            publicHeadersPath: nil
         )
     ]
 )
