@@ -61,7 +61,7 @@ let package = Package(
                 .byName(name: "YTXMonitor"),
                 .byName(name: "YTXOperators"),
             ],
-            path: "Sources/OneSDKWrapper",
+            path: "OneSDKWrapper",
             linkerSettings: [
                 // iOS 系统框架（强引用）
                 .linkedFramework("UIKit"),
@@ -292,37 +292,37 @@ let package = Package(
         .target(
             name: "CommonResources",
             dependencies: [],
-            path: "Sources/CommonResources",
+            path: "CommonResources",
             resources: [.copy("Resources")]
         ),
         .target(
             name: "TiantiResources",
             dependencies: [],
-            path: "Sources/TiantiResources",
+            path: "TiantiResources",
             resources: [.copy("Resources")]
         ),
         .target(
             name: "HappymakerResources",
             dependencies: [],
-            path: "Sources/HappymakerResources",
+            path: "HappymakerResources",
             resources: [.copy("Resources")]
         ),
         .target(
             name: "QutangResources",
             dependencies: [],
-            path: "Sources/QutangResources",
+            path: "QutangResources",
             resources: [.copy("Resources")]
         ),
         .target(
             name: "PjmResources",
             dependencies: [],
-            path: "Sources/PjmResources",
+            path: "PjmResources",
             resources: [.copy("Resources")]
         ),
         .target(
             name: "HiddentiantiResources",
             dependencies: [],
-            path: "Sources/HiddentiantiResources",
+            path: "HiddentiantiResources",
             resources: [.copy("Resources")]
         )
     ]
