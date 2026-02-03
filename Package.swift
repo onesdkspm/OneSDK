@@ -293,37 +293,55 @@ let package = Package(
             name: "CommonResources",
             dependencies: [],
             path: "CommonResources",
-            resources: [.copy("Resources")]
+            exclude: ["Resources"],
+            sources: ["Placeholder.swift"],
+            resources: [.copy("Resources")],
+            publicHeadersPath: nil
         ),
         .target(
             name: "TiantiResources",
             dependencies: [],
             path: "TiantiResources",
-            resources: [.copy("Resources")]
+            exclude: ["Resources"],
+            sources: ["Placeholder.swift"],
+            resources: [.copy("Resources")],
+            publicHeadersPath: nil
         ),
         .target(
             name: "HappymakerResources",
             dependencies: [],
             path: "HappymakerResources",
-            resources: [.copy("Resources")]
+            exclude: ["Resources"],
+            sources: ["Placeholder.swift"],
+            resources: [.copy("Resources")],
+            publicHeadersPath: nil
         ),
         .target(
             name: "QutangResources",
             dependencies: [],
             path: "QutangResources",
-            resources: [.copy("Resources")]
+            exclude: ["Resources"],
+            sources: ["Placeholder.swift"],
+            resources: [.copy("Resources")],
+            publicHeadersPath: nil
         ),
         .target(
             name: "PjmResources",
             dependencies: [],
             path: "PjmResources",
-            resources: [.copy("Resources")]
+            exclude: ["Resources"],
+            sources: ["Placeholder.swift"],
+            resources: [.copy("Resources")],
+            publicHeadersPath: nil
         ),
         .target(
             name: "HiddentiantiResources",
             dependencies: [],
             path: "HiddentiantiResources",
-            resources: [.copy("Resources")]
+            exclude: ["Resources"],
+            sources: ["Placeholder.swift"],
+            resources: [.copy("Resources")],
+            publicHeadersPath: nil
         )
     ]
 )
