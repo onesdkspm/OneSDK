@@ -114,188 +114,188 @@ let package = Package(
         // ========== Binary Frameworks ==========
         .binaryTarget(
             name: "ATAuthSDK",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/ATAuthSDK.xcframework.zip",
-            checksum: "2a2c3c12d947f7e4831e777d6b2f6ddca8aab6ec1da69b666e40e90aa9bc90e7"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/ATAuthSDK.xcframework.zip",
+            checksum: "f9202d47960cff8a84d6c939c2bc880dd8b46200c97f98d87ba142c99850df07"
         ),
         .binaryTarget(
             name: "DouyinConnector",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/DouyinConnector.xcframework.zip",
-            checksum: "764c5d8500b0da5991610fedb19fc59778367ba85eb8a2acf6c88f678dad8b42"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/DouyinConnector.xcframework.zip",
+            checksum: "b263d579cc0b839eb576adc57e2229d6195f34d28441dd5c6722ea6807de9f32"
         ),
         .binaryTarget(
             name: "DouyinOpenSDK",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/DouyinOpenSDK.xcframework.zip",
-            checksum: "f108b2fca4520965a118e8cc555d6852cb8147ded3e977a7700079eba27b4bf9"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/DouyinOpenSDK.xcframework.zip",
+            checksum: "bba53beb0293ff1f156ed025ea0d08aba1c783cf714d11e77f5d34ba08f9d509"
         ),
         .binaryTarget(
             name: "FlyVerifyCSDK",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/FlyVerifyCSDK.xcframework.zip",
-            checksum: "98a7b2a2dfa1e09ae3efc974064bf06429394b38e4616c93eaad82e92f7d0961"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/FlyVerifyCSDK.xcframework.zip",
+            checksum: "7d4d4daf877b29a861f79d5872657208a0804655ae372104b331886c7348288f"
         ),
         .binaryTarget(
             name: "FMDB",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/FMDB.xcframework.zip",
-            checksum: "1c8678e1646bc53d1629af8ec3c14dfa81212c520cdf90995a29d72df772dd19"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/FMDB.xcframework.zip",
+            checksum: "13b9b9d4af0d1188b4a96fa714ebdb49f7ab9bcb02b5b28f86ce09c60e998f9a"
         ),
         .binaryTarget(
             name: "GravityEngineSDK",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/GravityEngineSDK.xcframework.zip",
-            checksum: "50115505d9d12a10893a8e17423110d604101af3e0a1c3b799f20a1fde902af9"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/GravityEngineSDK.xcframework.zip",
+            checksum: "80481c40f5bf9d85e717eabd16e811ddd12119c922f6a774b292993dc5200ac2"
         ),
         .binaryTarget(
             name: "KuaiShouConnector",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/KuaiShouConnector.xcframework.zip",
-            checksum: "bd86c9c0437f2e37bb70e67dc9f309b7f5b45eb44f7bf9b73daccd80aece2fee"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/KuaiShouConnector.xcframework.zip",
+            checksum: "f66e950fcc2497b6e976abad84bff4c8847dc7c9e9d37677f9bc874d850d71e9"
         ),
         .binaryTarget(
             name: "MOBFoundation",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/MOBFoundation.xcframework.zip",
-            checksum: "889ae4fae7bd5bf629c4964f37fbfb2b805aec3525e7390c59ba697f3f70fe8b"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/MOBFoundation.xcframework.zip",
+            checksum: "2b8c33e00b75471cdad2285f419df062dfef0347d10083cd512e45959e4b1e78"
         ),
         .binaryTarget(
             name: "OneSDKAccount",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/OneSDKAccount.xcframework.zip",
-            checksum: "158190e1e9d3e1b8a71fa741168222ffbd0ee8838778986b07a91998d818a4ca"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/OneSDKAccount.xcframework.zip",
+            checksum: "4b3e7ed706b165fd5afbd850032a1dd870cab70bce0e364e1b367df7ea2afc1e"
         ),
         .binaryTarget(
             name: "OnesdkBaitianFramework",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/OnesdkBaitianFramework.xcframework.zip",
-            checksum: "c11beecd87a9e4c8b6078100f528ae4237ff9f1730631e5e101173e0b3799db9"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/OnesdkBaitianFramework.xcframework.zip",
+            checksum: "a83673fba79eb3fcc0086ae4a486a8e9441b2fe972e8defa3f2c1c33d8b52e1c"
         ),
         .binaryTarget(
             name: "OneSDKCommon",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/OneSDKCommon.xcframework.zip",
-            checksum: "c8e51a58833a756e6c3e35f49d3247f56eecff2df0632aa922371f2cbef3fe09"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/OneSDKCommon.xcframework.zip",
+            checksum: "1726fa45c9a2cf4aee7eb2ec07477f03bdf43686186854c7e6cc6b57cae28ad6"
         ),
         .binaryTarget(
             name: "OneSDKGravityEngine",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/OneSDKGravityEngine.xcframework.zip",
-            checksum: "a377f8821bf740949b28c50547a272ec3e2cd7a3eb7347e7111edd6c2349dd4c"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/OneSDKGravityEngine.xcframework.zip",
+            checksum: "b510c09c0d6f2dd064fe29f35d29f97146a639e7887c7207e7540e3ff59ccfa4"
         ),
         .binaryTarget(
             name: "OneSDKIAPHelperFramework",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/OneSDKIAPHelperFramework.xcframework.zip",
-            checksum: "559d0af2eb9027d87dd809efa3895ed6f1499a75a778f2d8c006aa2136d04916"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/OneSDKIAPHelperFramework.xcframework.zip",
+            checksum: "693922e86750f3efc2cb32baa1d513028bf2f8f46517e34205fc700a2a6a3904"
         ),
         .binaryTarget(
             name: "OtherPartySDKFramework",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/OtherPartySDKFramework.xcframework.zip",
-            checksum: "99d9fb1536c5099a82f1c924a2f64d6058111662b0ad458cebf7912f6ad49c97"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/OtherPartySDKFramework.xcframework.zip",
+            checksum: "c55f8f787c43e67e3bf4b8f2fe0cd528b51250af3763e06c0e4a6cc5295c2e59"
         ),
         .binaryTarget(
             name: "QQConnector",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/QQConnector.xcframework.zip",
-            checksum: "1143f975874f145b29d080965de15c3bbcabcee23a382920df190f8b5d22e630"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/QQConnector.xcframework.zip",
+            checksum: "84f421427a8d8b8f6cc48c072e1c3272818aba8d34d7cfe91c095d978c62e22f"
         ),
         .binaryTarget(
             name: "ShareSDK",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/ShareSDK.xcframework.zip",
-            checksum: "35ee41d264c801e94c60bea5112fca8b79c357fc9e114685ad2d2cb4f35c3924"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/ShareSDK.xcframework.zip",
+            checksum: "1a3efe4f0a66dd2ed1819d8f285a2155ff5b7f263647f10d7d52005448228f47"
         ),
         .binaryTarget(
             name: "ShareSDKConfigFile",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/ShareSDKConfigFile.xcframework.zip",
-            checksum: "dbbabb76b3f2a013e874f5b788d6f25e375db1ebd0f1cd7813069fccf634c1e0"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/ShareSDKConfigFile.xcframework.zip",
+            checksum: "7594f42cf98aa0d92512c93dba0d58acd4c37084938c8d726b35d168ab0a6884"
         ),
         .binaryTarget(
             name: "ShareSDKConnector",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/ShareSDKConnector.xcframework.zip",
-            checksum: "49090b66bdaa22b48e09017af4ec493a8ffae644c81c801d0abea0e334bb865e"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/ShareSDKConnector.xcframework.zip",
+            checksum: "fc683e1d58521df46854331a6f0e500e2266cd6bb456ea3afab02797a5774bfc"
         ),
         .binaryTarget(
             name: "ShareSDKExtension",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/ShareSDKExtension.xcframework.zip",
-            checksum: "e2c261feddeb9d7b18d4bd85b452fd5d254e113581b9564adb844beb613deaec"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/ShareSDKExtension.xcframework.zip",
+            checksum: "05bdbadaf3ceed193c386f107fd66e627c65ec460d4ec774a8bdf74c395812a2"
         ),
         .binaryTarget(
             name: "ShareSDKUI",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/ShareSDKUI.xcframework.zip",
-            checksum: "a470dd8fa6919df2bcf4505baaa546b2c2edd5097904705984a06d0499408528"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/ShareSDKUI.xcframework.zip",
+            checksum: "c72d339122150eed09827348a426f052dea120215e7fc36ad0a427887ff5e67f"
         ),
         .binaryTarget(
             name: "SinaWeiboConnector",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/SinaWeiboConnector.xcframework.zip",
-            checksum: "590534cc8daa10bbc1decc1b11b6e456bf3c27716d6785789479c91c5098607e"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/SinaWeiboConnector.xcframework.zip",
+            checksum: "295e42877f5b46e425c0e0f3826cf22dd6b4fd2d2d481dca314dfc66bd5060ec"
         ),
         .binaryTarget(
             name: "tapsdkcorecpp",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/tapsdkcorecpp.xcframework.zip",
-            checksum: "bac20053d89cea48b47b7d3cfc6d570152fe529efc0f5700e088e87260550c6d"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/tapsdkcorecpp.xcframework.zip",
+            checksum: "98b2390f5589565fcfeac29449df5be6fe22311ed38c05df5a673fe5c0c3b913"
         ),
         .binaryTarget(
             name: "TapTapBasicToolsSDK",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/TapTapBasicToolsSDK.xcframework.zip",
-            checksum: "a3d63302523d95fb978b25ffc57e8a67c7580d65aac357923c658c30b8feba48"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/TapTapBasicToolsSDK.xcframework.zip",
+            checksum: "f60e6fc5d4e9959fdfe5d0f1cb0e59f0c3c95b58cacfa8010893efb9513c179e"
         ),
         .binaryTarget(
             name: "TapTapCoreSDK",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/TapTapCoreSDK.xcframework.zip",
-            checksum: "57762fce8b9dc82f43550678dda3c32ec600223055adac479d9a28870536ee2b"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/TapTapCoreSDK.xcframework.zip",
+            checksum: "99268fba6d55bf07b9c43e1f0f38c922c9bcf42a31c04967a4fc986e8b8f673f"
         ),
         .binaryTarget(
             name: "TapTapGidSDK",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/TapTapGidSDK.xcframework.zip",
-            checksum: "e1de9396712371f96273f5b3e2cab546a40cf54637a0fb88d37904606815c115"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/TapTapGidSDK.xcframework.zip",
+            checksum: "d8f6e5c9004908ca01037bf14000021c11853d247f86cba329585dee530103bf"
         ),
         .binaryTarget(
             name: "TapTapLoginSDK",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/TapTapLoginSDK.xcframework.zip",
-            checksum: "c33c0d2908240561d17ffcbba38101a2cb945306fbd764e0110cc2dccc6968d8"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/TapTapLoginSDK.xcframework.zip",
+            checksum: "fb6c8c7e661e9d787a67e7893ef69ae1bdb8224bf0a7932501e7f59659edb75e"
         ),
         .binaryTarget(
             name: "TapTapNetworkSDK",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/TapTapNetworkSDK.xcframework.zip",
-            checksum: "21ea890c3796ba119c025b4e4e2ead6b5d357c3fac67f3bc998032863bb4d954"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/TapTapNetworkSDK.xcframework.zip",
+            checksum: "d6a3da59dc94155c998942348d087aaf29d3d559a5783f055a8e0231ae2f3b30"
         ),
         .binaryTarget(
             name: "TapTapSDKBridgeCore",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/TapTapSDKBridgeCore.xcframework.zip",
-            checksum: "7e6b43302fc2330834911ec8b848661e0938293fcd15cbf89921ed29c413b89c"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/TapTapSDKBridgeCore.xcframework.zip",
+            checksum: "de3a06fb468c065540d223842bcd91821691d8571fe5ee0bcc2e116e1bd80b57"
         ),
         .binaryTarget(
             name: "TapTapShareSDK",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/TapTapShareSDK.xcframework.zip",
-            checksum: "a7fbdcee210340b19f41c78efd76a9a7eeff78c7698e79ddfc84ed33ddb32902"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/TapTapShareSDK.xcframework.zip",
+            checksum: "bb959c0131da44091a231e3662e076b5f63f80360c8e9ca505159b49ce5d6cb8"
         ),
         .binaryTarget(
             name: "TencentOpenAPI",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/TencentOpenAPI.xcframework.zip",
-            checksum: "b232e8ed6a32436cba77689a2a11f81d07a0cb7bde6581c3481b04107ee0fdc4"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/TencentOpenAPI.xcframework.zip",
+            checksum: "fa478ed9cd7f359b2a00db3d3de122e98b6f21141d0862da2e93d65ca480d2c7"
         ),
         .binaryTarget(
             name: "THEMISLite",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/THEMISLite.xcframework.zip",
-            checksum: "d28cb147c44b285de906bdafecd5b11c5779689b1c7e2ad10fc42a59d7658d21"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/THEMISLite.xcframework.zip",
+            checksum: "377facf00880ac5af714646476abd1ed636971797ddd8192775e2cce274d845a"
         ),
         .binaryTarget(
             name: "UnitySDKManager",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/UnitySDKManager.xcframework.zip",
-            checksum: "4eaa5d6178e758a2b3471a33f5e97be0bb12381d8f02e5d2ce93fd11e768db5a"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/UnitySDKManager.xcframework.zip",
+            checksum: "fa9011bd50eca5b67208b3b4a3a47bfa0df405ebddeb0f95605920abcb9ac06d"
         ),
         .binaryTarget(
             name: "WechatConnector",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/WechatConnector.xcframework.zip",
-            checksum: "d93d4539e681607019aa4da8fef36bb449bf2a7b011043e12abe931de849c88c"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/WechatConnector.xcframework.zip",
+            checksum: "6ff0a9a1b3bfe3067ada7049d23e5c2f79cabe6d10722df794f59b08baf68a76"
         ),
         .binaryTarget(
             name: "XHSConnector",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/XHSConnector.xcframework.zip",
-            checksum: "b8e1dada69aff5147d82ab9825c85c483b9cab2b5a18c17590568d978d3dc2cb"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/XHSConnector.xcframework.zip",
+            checksum: "38ad21d5af23b7bc68d88eb7bb23180bde97980d3bca79bd2f78874021c29384"
         ),
         .binaryTarget(
             name: "XiaoHongShuOpenSDK",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/XiaoHongShuOpenSDK.xcframework.zip",
-            checksum: "90fd0e2b1f5e68edd5894b841ff66352d67736dc885ff3d49bbc7620c7a9ea65"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/XiaoHongShuOpenSDK.xcframework.zip",
+            checksum: "b4ab9280f751276ca706003b41c7702457a49f0d8fa87320d5160313c84052e3"
         ),
         .binaryTarget(
             name: "YTXMonitor",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/YTXMonitor.xcframework.zip",
-            checksum: "ba2fd54e805d326e661bae8b13118072a7f0d8321483e2e5facd511dcdf967d4"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/YTXMonitor.xcframework.zip",
+            checksum: "932c7cfb4f4761f2af98692b0732cfe0becce1b6fc1fd427020a135ecf983242"
         ),
         .binaryTarget(
             name: "YTXOperators",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1496752/YTXOperators.xcframework.zip",
-            checksum: "84b399f99749c6ddf2d06d7f34164f70c9855466b6fe2e7bed5a0e90e549b4f1"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/OneSDK/3.4.2-dev-1530449/YTXOperators.xcframework.zip",
+            checksum: "f919cfab82d04e08b815103aa397e8dc95a3f7decf288e780a406ec365337f3a"
         ),
         
         // ========== Bundle Resources ==========
