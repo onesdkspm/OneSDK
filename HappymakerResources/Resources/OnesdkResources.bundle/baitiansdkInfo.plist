@@ -106,6 +106,24 @@
 		<key>AccountCenterDomainDebugUrl</key>
 		<string>https://account-test.happymaker.com.cn/bmy/usernavcenter</string>
 	</dict>
+	<key>BTPersonalInfoConfig</key>
+	<dict>
+		<key>Name</key>
+		<string>个人信息收集清单</string>
+		<key>Url</key>
+		<string>https://static.happymaker.com.cn/policy/personal-list.html</string>
+		<key>UrlDebug</key>
+		<string>https://static-test.happymaker.com.cn/policy/personal-list.html</string>
+	</dict>
+	<key>BTThirdPartyShareConfig</key>
+	<dict>
+		<key>Name</key>
+		<string>第三方信息共享清单</string>
+		<key>Url</key>
+		<string>https://static.happymaker.com.cn/yducaccount/wap/html/thirdpart.html</string>
+		<key>UrlDebug</key>
+		<string>https://static-test.happymaker.com.cn/yducaccount/wap/html/thirdpart.html</string>
+	</dict>
 	<key>PolicyDomain</key>
 	<dict>
 		<key>PolicyProtocolUrl</key>

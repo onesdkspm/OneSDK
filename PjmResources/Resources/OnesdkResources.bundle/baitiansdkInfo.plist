@@ -120,6 +120,24 @@
 		<key>EnterGameOnlineDomainBackupDebugUrl</key>
 		<string>http://useronline-src-zctest.100bt.com</string>
 	</dict>
+	<key>BTPersonalInfoConfig</key>
+	<dict>
+		<key>Name</key>
+		<string>《个人信息收集清单》</string>
+		<key>Url</key>
+		<string>https://static.100bt.com/policy/personal-list.html</string>
+		<key>UrlDebug</key>
+		<string>https://te-static.100bt.com/policy/personal-list.html</string>
+	</dict>
+	<key>BTThirdPartyShareConfig</key>
+	<dict>
+		<key>Name</key>
+		<string>《第三方信息共享清单》</string>
+		<key>Url</key>
+		<string>https://static.100bt.com/yducaccount/wap/html/thirdpart.html</string>
+		<key>UrlDebug</key>
+		<string>https://te-static.100bt.com/yducaccount/wap/html/thirdpart.html</string>
+	</dict>
 	<key>PolicyDomain</key>
 	<dict>
 		<key>PolicyProtocolUrl</key>
