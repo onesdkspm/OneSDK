@@ -109,14 +109,14 @@
 	<key>BTPersonalInfoConfig</key>
 	<dict>
 		<key>Name</key>
-		<string>《个人信息收集清单》</string>
+		<string>个人信息收集清单</string>
 		<key>Url</key>
 		<string>https://static.happymaker.com.cn/policy/personal-list.html</string>
 	</dict>
 	<key>BTThirdPartyShareConfig</key>
 	<dict>
 		<key>Name</key>
-		<string>《第三方信息共享清单》</string>
+		<string>第三方信息共享清单</string>
 		<key>Url</key>
 		<string>https://static.happymaker.com.cn/yducaccount/wap/html/thirdpart.html</string>
 	</dict>
