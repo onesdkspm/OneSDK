@@ -126,6 +126,8 @@
 		<string>个人信息收集清单</string>
 		<key>Url</key>
 		<string>https://static.qutang.fun/policy/personal-list.html</string>
+		<key>UrlDebug</key>
+		<string>https://static-test.qutang.fun/policy/personal-list.html</string>
 	</dict>
 	<key>BTThirdPartyShareConfig</key>
 	<dict>
@@ -133,6 +135,8 @@
 		<string>第三方信息共享清单</string>
 		<key>Url</key>
 		<string>https://static.qutang.fun/yducaccount/wap/html/thirdpart.html</string>
+		<key>UrlDebug</key>
+		<string>https://static-test.qutang.fun/yducaccount/wap/html/thirdpart.html</string>
 	</dict>
 	<key>PolicyDomain</key>
 	<dict>
