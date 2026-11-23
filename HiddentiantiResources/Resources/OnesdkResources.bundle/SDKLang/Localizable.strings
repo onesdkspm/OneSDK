@@ -6,9 +6,9 @@
 
 "kBtRealNameProtocolText" = "根据《关于进一步严格管理切实防止未成年人沉迷网络游戏的通知》，18岁以下未成年人只可以在周五、周六、周日和法定节假日的20时至21时体验游戏服务。";
 
-"kBtTiantiInputTip" = "请输入天梯账号";
+"kBtTiantiInputTip" = "请输入用户名";
 
-"kBtTiantiInputTip" = "请输入天梯账号";
+"kBtTiantiInputTip" = "请输入用户名";
 
 "kBtActiveNameTip" = "游戏正在进行限号测试";
 
@@ -142,7 +142,7 @@
 
 "kOtherLoginTypeText" = "其它登录方式";
 
-"kTiantiLoginType" = "天梯";
+"kTiantiLoginType" = "官方账号";
 
 "kWechatLoginType" = "微信";
 
@@ -233,7 +233,7 @@
 
 "kAlertBtnCommitDel" = "确认删除";
 
-"kAccountCancleTip" = "您的账号正在注销中，可前往【天梯用户中心-注销】取消注销申请";
+"kAccountCancleTip" = "您的账号正在注销中，可前往【用户中心-注销】取消注销申请";
 
 "kQrScanTip" = "温馨提示";
 
